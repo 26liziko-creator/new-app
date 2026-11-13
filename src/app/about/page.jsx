@@ -1,9 +1,8 @@
+import styles from "./page.module.css";
 
-import styles from"./page.modul.css"
-
-console.log(styles);
-
+console.log(styles)
 const About = () => {
-    return <h1 className={styles.title}>about page</h1>
-}
-export default About
+    return <h1 className={styles.title}>About Page</h1>;
+};
+
+export default About;

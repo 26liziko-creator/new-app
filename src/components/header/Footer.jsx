@@ -1,3 +1,6 @@
+import styles from "./Footer.module.css"
+
+
 const Footer = () => {
   return (
     <footer style={{ width: "100%", height: "80px" }}>
